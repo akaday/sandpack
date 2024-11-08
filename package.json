@@ -61,7 +61,7 @@
     "lint-staged": "^10.5.4",
     "prettier": "^2.2.1",
     "react-test-renderer": "^18.1.0",
-    "rollup": "^3.9.1",
+    "rollup": "^4.22.4",
     "rollup-plugin-string": "^3.0.0",
     "turbo": "^1.5.5"
   },
